@@ -10,6 +10,6 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Reach out!
 
-[email@domain.com](mailto:email@domain.com)
+[samuelwilby@alum.calarts.edu](mailto:samuelwilby@alum.calarts.edu)
