@@ -30,6 +30,13 @@ body {
   width: 100%;
 }
 
+.container2 {
+  margin: 0 auto;
+  max-width: 1440px;
+  padding: 0 10px;
+  width: 100%;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -281,6 +288,13 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+tetdos {
+  padding: 20px 0;
+  text-align: left;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
